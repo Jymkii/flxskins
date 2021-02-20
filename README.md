@@ -1,4 +1,3 @@
-#######  Flxible Skins #########
 <h1 style="color: #5e9ca0;"><span style="color: #808080;"><em>probably not updated</em></span></h1>
 <hr />
 <ul>
